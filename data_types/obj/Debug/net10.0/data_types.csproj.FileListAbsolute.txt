@@ -1,0 +1,15 @@
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/bin/Debug/net10.0/data_types
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/bin/Debug/net10.0/data_types.deps.json
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/bin/Debug/net10.0/data_types.runtimeconfig.json
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/bin/Debug/net10.0/data_types.dll
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/bin/Debug/net10.0/data_types.pdb
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.AssemblyInfoInputs.cache
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.AssemblyInfo.cs
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.csproj.CoreCompileInputs.cache
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.sourcelink.json
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.dll
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/refint/data_types.dll
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.pdb
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/data_types.genruntimeconfig.cache
+/Users/will/Desktop/Personal Stuff/C-Sharp-Notes-Practice/data_types/obj/Debug/net10.0/ref/data_types.dll
