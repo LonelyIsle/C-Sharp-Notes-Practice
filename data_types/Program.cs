@@ -35,8 +35,8 @@ namespace data_types
             //data type conversion
             Console.WriteLine("Enter your favorite number!: ");
             int faveNumber = Convert.ToInt32(Console.ReadLine());
-            double dFavNumber = Convert.ToDouble(Console.ReadLine());
-            bool bFavNumber = Convert.ToBoolean(Console.ReadLine());
+            //double dFavNumber = Convert.ToDouble(Console.ReadLine());
+            //bool bFavNumber = Convert.ToBoolean(Console.ReadLine());
         }
     }
 }
