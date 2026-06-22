@@ -64,7 +64,46 @@ namespace number_and_operators
             Console.WriteLine(jupiterAge);
             Console.WriteLine(newEarthAge);
             Console.WriteLine(newJupiterAge);
+            
+            //Operator Shortcuts
+            //Declaring the variable
+            int steps = 0;
 
+            //Incremeting the variable
+            steps += 2;
+
+            //Decrement of 1
+            steps -= 1;
+
+            //print
+            Console.WriteLine(steps);
+
+            //Modulo
+            //Number of Students
+            int students = 18;
+
+            //setting a divisible number
+            int groupSize = 3;
+
+            //print / Arithmetic
+            Console.WriteLine(students % groupSize);
+
+            //Buildt in methods
+            //Starting variables
+            int numberOne = 12932;
+            int numberTwo = -2828472;
+
+            //buildt in methods with these numbers
+            Math.Abs(numberTwo);
+            Math.Sqrt(numberOne);
+            Math.Min(numberOne,numberTwo);
+            Math.Max(numberOne,numberTwo);
+
+            double numberOneSqrt = Math.Floor(Math.Sqrt(numberOne));
+            double numberTwoSqrt = Math.Floor(Math.Sqrt(Math.Abs(numberTwo)));
+
+            //printing
+            Console.WriteLine(Math.Min(numberOneSqrt,numberTwoSqrt));
         }
     }
 }
