@@ -68,6 +68,28 @@ namespace working_with_text
             //checking for mutations
             char mutation = dna[3];
             Console.WriteLine(mutation);
+
+            //Manipulating strings using .ToUpper and .ToLower
+            // Script line
+            string script = "Close on a portrait of the HANDSOME PRINCE -- as the BEAST'S giant paw slashes it.";
+
+            // Get camera directions
+            int charPosition = script.IndexOf("Close");
+            int l = "Close on".Length;
+            string cameraDirections = script.Substring(charPosition, l);
+
+            // Get scene description
+            charPosition = script.IndexOf("a portrait");
+            string sceneDescription = script.Substring(charPosition);
+
+            // Make camera directions uppercase
+            cameraDirections = cameraDirections.ToUpper();
+
+            // Make scene description lowercase
+            sceneDescription = sceneDescription.ToLower();
+
+            // Print results
+            Console.WriteLine(cameraDirections + "\n" + sceneDescription);
         }
     }
 }
