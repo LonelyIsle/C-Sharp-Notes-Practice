@@ -49,6 +49,25 @@ namespace working_with_text
 
             // Print results
             Console.WriteLine($"The user password is {password}. Its length is {passwordLength} and it receives a {passwordCheck} check.");
+
+            //Getting parts of a string
+            //DNA strand
+            string startStrand = "ATGCGATGAGCTTAC";
+
+            //find the location of "tga"
+            int tga = startStrand.IndexOf("TGA");
+
+            //making the start and stopping point variables
+            int startPoint = 0;
+            int length = tga +3;
+
+            // usign substring usage
+            string dna = startStrand.Substring(startPoint, length);
+            Console.WriteLine(dna);
+
+            //checking for mutations
+            char mutation = dna[3];
+            Console.WriteLine(mutation);
         }
     }
 }
