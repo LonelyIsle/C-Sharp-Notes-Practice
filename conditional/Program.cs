@@ -43,6 +43,37 @@ namespace conditional
             else{
                 Console.WriteLine("Neutral");
             }
+
+            //switch statements using the if/else above
+            switch(ph){
+        
+            case <= 3:
+                Console.WriteLine("Very Acidic");
+                break;
+
+            case < 7:
+                Console.WriteLine("Acidic");
+                break;
+
+            case >= 11:
+                Console.WriteLine("Very Basic");
+                break;
+        
+            case > 7:
+                Console.WriteLine("Basic");
+                break;
+
+            default:
+                Console.WriteLine("Neutral");
+                break;
+            }
+
+            //Ternary Operators
+
+            int pepperLength = 4;
+            string message = (pepperLength >= 3.5) ? "ready!" : "wait a little longer";
+
+            Console.WriteLine(message);
         }
     }
 }
